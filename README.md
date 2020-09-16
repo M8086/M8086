@@ -1,4 +1,4 @@
-# Hi! This is Alex, welcome to my Github profile!
+# Hi! This is Alex. Welcome to my Github profile!
 
 ### About me
 

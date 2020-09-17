@@ -6,6 +6,10 @@ I am a tech professional that is interested in The Cloud, Linux, and Automation.
 I completed my Azure Administrator Associate certificate in August and am now working on studying for the Linux+.
 I also enjoy working with Python and PowerShell, and continue studying these while also studying for the Linux+
 
+I have worked in a few industries throughout my career. I have worked in small family owned companies and large enterprises.
+My career has taken me through the manufacturing, financial, retial, and service providder industries. I have gained many
+unique experiences from every industry, and I feel all of them have helped me as I further my career.
+
 ### Items I've worked on
 
 I have several Python projects on my profile. These include a TCP server/client and some Azure SDK scripts.

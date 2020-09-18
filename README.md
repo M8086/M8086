@@ -21,7 +21,7 @@ I hope to get more of those on my profile as well.
 * ⚙ Coding and Automation
 * ☁ The Cloud
 * 🐧 Linux
-*  Retro Computing
+* 💾 Retro Computing
 * 🎸 Music (I play guitar)
 * 🐈 Cat herding (Even one is a full time job!)
 

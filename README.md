@@ -4,7 +4,9 @@
 
 I am a tech professional that is interested in The Cloud, Linux, and Automation. I hope one day to have a career in DevOps.
 I completed my Azure Administrator Associate certificate in August and am now working on studying for the Linux+.
-I also enjoy working with Python and PowerShell, and continue studying these while also studying for the Linux+
+I also enjoy working with Python and PowerShell, and continue studying these while also studying for the Linux+.
+
+I have a good background in the Microsoft 365 platform, and hope to further this as well. Perhaps learning the Graph API is in my furute.
 
 I have worked in a few industries throughout my career. I have worked in small family owned companies and large enterprises.
 My career has taken me through many areas of tech including the manufacturing, financial, retial, and service providder industries. 
